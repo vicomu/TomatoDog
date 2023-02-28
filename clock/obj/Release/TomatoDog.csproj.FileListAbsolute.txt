@@ -1,0 +1,14 @@
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\bin\Release\TomatoDog.exe.config
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\bin\Release\TomatoDog.exe
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\bin\Release\TomatoDog.pdb
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.Form1.resources
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.Form2.resources
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.Form3.resources
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.Form5.resources
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.Properties.Resources.resources
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.csproj.GenerateResource.cache
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.exe
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.pdb
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.Form4.resources
+C:\Users\KING\Desktop\项目\番茄狗\TomatoDog5\clock\obj\Release\TomatoDog.csproj.AssemblyReference.cache

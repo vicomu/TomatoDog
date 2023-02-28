@@ -1,0 +1,103 @@
+C:\Users\KING\Desktop\MyProject\clock\clock\bin\Release\clock.exe.config
+C:\Users\KING\Desktop\MyProject\clock\clock\bin\Release\clock.exe
+C:\Users\KING\Desktop\MyProject\clock\clock\bin\Release\clock.pdb
+C:\Users\KING\Desktop\MyProject\clock\clock\obj\Release\clock.Form1.resources
+C:\Users\KING\Desktop\MyProject\clock\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\KING\Desktop\MyProject\clock\clock\obj\Release\clock.csproj.GenerateResource.Cache
+C:\Users\KING\Desktop\MyProject\clock\clock\obj\Release\clock.exe
+C:\Users\KING\Desktop\MyProject\clock\clock\obj\Release\clock.pdb
+C:\Users\KING\Desktop\MyProject\clock\clock\obj\Release\clock.csprojResolveAssemblyReference.cache
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\bin\Release\clock.exe.config
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\obj\Release\clock.exe
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\obj\Release\clock.pdb
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\bin\Release\clock.exe
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\bin\Release\clock.pdb
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\obj\Release\clock.csprojResolveAssemblyReference.cache
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\obj\Release\clock.Form1.resources
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\KING\Desktop\MyProject\clock 1.2.0.0\clock\obj\Release\clock.csproj.GenerateResource.Cache
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.exe.config
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.exe
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.pdb
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.exe
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.pdb
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.csprojResolveAssemblyReference.cache
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form1.resources
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.csproj.GenerateResource.Cache
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form2.resources
+C:\Users\KING\Desktop\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form3.resources
+C:\Project\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.exe.config
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.exe
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.pdb
+C:\Project\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.exe
+C:\Project\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.pdb
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.csprojResolveAssemblyReference.cache
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form1.resources
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form2.resources
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form3.resources
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Properties.Resources.resources
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.csproj.GenerateResource.Cache
+C:\Project\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.exe.manifest
+C:\Project\MyProject\番茄钟\clock 2.0\clock\bin\Release\clock.application
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.TrustInfo.xml
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.exe.manifest
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.application
+C:\Project\MyProject\番茄钟\clock 2.0\clock\bin\Release\Pet_assistant.pfx
+C:\Project\MyProject\番茄钟\clock 2.0\clock\obj\Release\clock.Form5.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Release\clock.exe.config
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.exe
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.pdb
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Release\clock.exe
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Release\clock.pdb
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.Form1.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.Form2.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.Form3.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.Form5.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.Properties.Resources.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.csproj.GenerateResource.Cache
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Release\clock.exe.manifest
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Release\clock.application
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.TrustInfo.xml
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.exe.manifest
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.application
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Release\clock.csprojResolveAssemblyReference.cache
+C:\Project\番茄狗正式发行版\clock\bin\Release\clock.exe.config
+C:\Project\番茄狗正式发行版\clock\bin\Release\clock.exe
+C:\Project\番茄狗正式发行版\clock\bin\Release\clock.pdb
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.csprojAssemblyReference.cache
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.Form1.resources
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.Form2.resources
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.Form3.resources
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.Form5.resources
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.Properties.Resources.resources
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.csproj.GenerateResource.cache
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.csproj.CoreCompileInputs.cache
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.exe
+C:\Project\番茄狗正式发行版\clock\obj\Release\clock.pdb
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\bin\Release\clock.exe.config
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\bin\Release\clock.exe
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\bin\Release\clock.pdb
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.csprojAssemblyReference.cache
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.Form1.resources
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.Form2.resources
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.Form3.resources
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.Form5.resources
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.csproj.GenerateResource.cache
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.exe
+C:\Users\KING\Desktop\番茄狗正式发行版\clock\obj\Release\clock.pdb
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\bin\Release\clock.exe.config
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\bin\Release\clock.exe
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\bin\Release\clock.pdb
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.csprojAssemblyReference.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.Form1.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.Form2.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.Form3.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.Form5.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.csproj.GenerateResource.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.exe
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Release\clock.pdb
