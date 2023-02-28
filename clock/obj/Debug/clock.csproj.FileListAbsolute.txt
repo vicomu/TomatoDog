@@ -1,0 +1,43 @@
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Debug\clock.exe.config
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.exe
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.pdb
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Debug\clock.exe.manifest
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Debug\clock.application
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Debug\clock.exe
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\bin\Debug\clock.pdb
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.Form1.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.Form2.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.Form3.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.Form5.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.csproj.GenerateResource.Cache
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.TrustInfo.xml
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.exe.manifest
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.application
+C:\Project\MyProject\番茄钟\clock 3.0.1\clock\obj\Debug\clock.csprojResolveAssemblyReference.cache
+C:\Project\番茄狗正式发行版\clock\bin\Debug\clock.exe.config
+C:\Project\番茄狗正式发行版\clock\bin\Debug\clock.exe
+C:\Project\番茄狗正式发行版\clock\bin\Debug\clock.pdb
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.Form1.resources
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.Form2.resources
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.Form3.resources
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.Form5.resources
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.csproj.GenerateResource.cache
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.exe
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.pdb
+C:\Project\番茄狗正式发行版\clock\obj\Debug\clock.csprojAssemblyReference.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.csprojAssemblyReference.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.Form1.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.Form2.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.Form3.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.Form5.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.csproj.GenerateResource.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\TomatoDog.Properties.Resources.resources
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\bin\Debug\TomatoDog.exe.config
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\bin\Debug\TomatoDog.exe
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\bin\Debug\TomatoDog.pdb
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\TomatoDog.exe
+C:\Users\KING\Desktop\番茄狗\TomatoDog5\clock\obj\Debug\TomatoDog.pdb
